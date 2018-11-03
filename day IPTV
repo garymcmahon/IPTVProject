@@ -1,21 +1,3 @@
 #EXTM3U
-#EXTINF:-1,UK | BBC ONE SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30547.ts
-#EXTINF:-1,UK | BBC ONE WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30548.ts
-#EXTINF:-1,UK | BBC PARLIEMNT
-http://p4.giffy.be:8080/live/coke123/coke123/30542.ts
-#EXTINF:-1,UK | BBC TWO NORTHERN IRELAND
-http://p4.giffy.be:8080/live/coke123/coke123/30544.ts
-#EXTINF:-1,UK | BBC TWO SCOTLAND
-http://p4.giffy.be:8080/live/coke123/coke123/30545.ts
-#EXTINF:-1,UK | BBC TWO WALES
-http://p4.giffy.be:8080/live/coke123/coke123/30546.ts
-#EXTINF:-1,UK | BBC1
-http://p4.giffy.be:8080/live/coke123/coke123/30549.ts
-#EXTINF:-1,UK | BBC2
-http://p4.giffy.be:8080/live/coke123/coke123/30550.ts
-#EXTINF:-1,UK | BBC3
-http://p4.giffy.be:8080/live/coke123/coke123/30551.ts
-#EXTINF:-1,UK | RTE
-http://p4.giffy.be:8080/live/coke123/coke123/30516.ts
+#EXTINF:-1,BBC ONE UK SD
+http://mlsh.co:2086/live/jake/jake1/20206.ts
